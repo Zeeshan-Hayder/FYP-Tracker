@@ -29,7 +29,7 @@ FYP Tracker empowers project managers with the tools they need to effectively ma
 - **Progress Monitoring**: Monitor progress on a weekly and overall basis.
 - **Comprehensive Overview**: View detailed information about all the projects they are managing.
 - **Yearly Reports**: Access summaries of yearly managed projects to identify trends and participation.
-- **AI-based Summary Generation**: Automatically generate summaries of project progress and performance using AI.
+- **AI-based Summary Generation**: Automatically generate summaries of feedback over 16 weeks.
 - **Project Archives**: Maintain archives of past projects for future reference and analysis.
 
 ### For Students
